@@ -9,4 +9,7 @@ I made 2 versions of the layout design, 1 full sized one taken directly from the
 And 1 small sized version without all of the details on the pins
 ![smallch572d](https://github.com/user-attachments/assets/eb2ff16a-ec5f-4f20-8d5f-a4dd9886ede1)
 
+![ch572dfootprint](https://github.com/user-attachments/assets/7a8c10af-1dc7-4d8f-b603-86b3872f8159)
+
 I designed this with the help of its [datasheet](https://www.wch-ic.com/downloads/CH572DS1_PDF.html) and the [EasyEDA](https://jlcpcb.com/partdetail/WCH_Jiangsu_Qin_Heng-CH572D/C46597863)
+
